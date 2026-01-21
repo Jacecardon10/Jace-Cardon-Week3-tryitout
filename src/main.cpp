@@ -35,7 +35,7 @@ int main() {
             std::cout << "  ";
         }
         //Places stars
-        for (int star = 1; star < row *2; star++) {
+        for (int star = 1; star < row * 2; star++) {
             std::cout << " *";
         }
         //Starts new row
